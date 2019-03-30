@@ -30,7 +30,7 @@ The same basic document with some styles added.
 
 ## Basic Presentation: Dark and Light Themes
 
-Here is a simple sample presentation (inspired by <https://github.com/akrabat/rst2pdf_example_presentation>), with both dark and light styles. These could be a starting point for your own presentations.
+Here is a simple sample presentation (inspired by <https://github.com/akrabat/rst2pdf_example_presentation>), with both dark and light styles. These could be a starting point for your own presentations. This presentation includes bullet points, code with syntax highlighting, tables, images, and links.
 
 <img src="../examples/presentation1/presentation1-light-thumbnail.png" /> 
 <img src="../examples/presentation1/presentation1-dark-thumbnail.png" /> 
